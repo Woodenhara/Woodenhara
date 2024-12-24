@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Unity<br>👯 I’m looking to collaborate on Game Project<br>🤝 I’m looking for help with Ruby<br>🌱 I’m currently learning Ruby on Rails and C#<br>💬 Ask me about Psychological Opinion about anything<br>⚡ Fun fact is im taking MBTI test 4 times and the result is 4 Thinker with Judge
+🔭 I’m currently working on Unity<br>👯 I’m looking to collaborate on Game Development<br>🤝 I’m looking for help with Ruby<br>🌱 I’m currently learning Ruby on Rails and C#<br>💬 Ask me about Psychological Opinion about anything<br>⚡ Fun fact is im taking MBTI test 4 times and the result is 4 Thinker with Judge
 
 
 ## 🌐 Socials:
